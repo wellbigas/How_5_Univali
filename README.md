@@ -1,2 +1,7 @@
-# Loja-Virtual-Responsiva
-Aprenda a fazer um Template de site de roupas Virtual responsivo usando HTML CSS e JavaScript. Com animações  em css . 
+Projeto Integrador Univali
+
+Site de venda de canecas, JJ Sublimação!
+
+Linguagens utilizidas: HTML5, CSS3 e JavaScript
+
+Autores: Gabriel Bigas Mauro e Wellington Luís Moreno Bigas
